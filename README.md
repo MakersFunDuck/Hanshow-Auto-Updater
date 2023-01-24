@@ -1,35 +1,57 @@
 
-<h1 align='center'> <img width=32 src='https://static.wikia.nocookie.net/computer-software-and-video-games/images/9/94/Snipping_Tool_10_Icon.png/revision/latest?cb=20170128223105'> Snipping Tool</h1>
+<h1 align='center'> <img width=32 src='https://static.wikia.nocookie.net/computer-software-and-video-games/images/9/94/Snipping_Tool_10_Icon.png/revision/latest?cb=20170128223105'>Hanshow Auto Updater (Snipping Tool)</h1>
 <p align='center'>
     <img src='../../_img/snipping_tool.PNG'><br/>
-    A fully-functional Snipping Tool with Tkinter 
+    A tool to update the contents of the Hanshow price tags (shelf labels).with Tkinter 
 </p>
 
 ## Sypnosis
 
-Select the mode of screenshot (fullscreen or region), set delay and take your snip. Note that for rectangular snips, delay is not supported (and not even desireable in the first place) 
+Write the tag name, URL of the website you want to use, Screen update delay time, and if you want to, check the "check changes" check box to check the website changes, and check the "work in background" check box to set the app to work in background. 
+
+Then click the "Snip"  button. 
+
+Move with your mouse (scroll up, sign up etc), 
+
+Right click to save the mouse movement.
+select the region you want to snip.
+
+
+Screen will be updated as you set the values.
+
+
+
 
 ## Installation
 
 Install the [requirements](#requirements)
-```bash
-pip install pygame
-pip install pyautogui
-pip install customtkinter
-```
+# Clone the repository.
+$ git clone git@github.com:rbaron/Hanshow-Auto-Updater.git
+$ cd Hanshow-Auto-Updater
+# Create a virtualenv on venv/ and activate it.
+$ virtualenv --python=python3 venv
+$ source venv/bin/activate
+# Install requirements from requirements.txt.
+$ pip install -r requirements.txt
 
-## Download
-
-Click here to [Download Snipping Tool](https://downgit.github.io/#/home?url=https://github.com/besnoi/pyapps/tree/main/src/Snipping%20Tool)
 
 ## Requirements
-- pygame
-- pyautogui
-- customtkinter
+bleak==0.19.5
+customtkinter==5.0.4
+mouse==0.7.1
+numpy==1.24.1
+opencv-python==4.7.0.68
+PyAutoGUI==0.9.53
+pygame==2.1.2
 
-## Contribution
 
-I will refactor this code in OOP, add free-form snips, elliptical snips, etc and add post-production effects to the snip (like scribble,drop-down shadow,etc). Any help would be desirable. A seperate repository will be created for the purpose and you can commit [there](TODO)
+
+
+
+Thanks to the projects below: 
+https://github.com/atc1441/ATC_TLSR_Paper
+
+https://github.com/rbaron/pricetag-printer
 
 ## License
 
