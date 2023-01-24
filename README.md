@@ -69,6 +69,7 @@ pygame==2.1.2
 
 
 Thanks to the projects below: 
+
 https://github.com/atc1441/ATC_TLSR_Paper
 
 https://github.com/rbaron/pricetag-printer
