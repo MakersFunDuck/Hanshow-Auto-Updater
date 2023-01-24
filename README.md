@@ -1,7 +1,7 @@
 
 <h1 align='center'> <img width=32 src='https://static.wikia.nocookie.net/computer-software-and-video-games/images/9/94/Snipping_Tool_10_Icon.png/revision/latest?cb=20170128223105'>Hanshow Auto Updater</h1>
 <p align='center'>
-    <img src='../../_img/snipping_tool.PNG'><br/>
+    
     A tool to update the contents of the Hanshow price tags (shelf labels).with Tkinter 
 </p>
 
