@@ -1,0 +1,7 @@
+bleak==0.19.5
+customtkinter==5.0.4
+mouse==0.7.1
+numpy==1.24.1
+opencv-python==4.7.0.68
+PyAutoGUI==0.9.53
+pygame==2.1.2

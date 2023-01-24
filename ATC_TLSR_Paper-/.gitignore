@@ -1,0 +1,7 @@
+Firmware/out/*
+Firmware/tc32_linux
+Firmware/tc32_windows
+flashing
+flash.bat
+Firmware_test_gpio
+.vscode
