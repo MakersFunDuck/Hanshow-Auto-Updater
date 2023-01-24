@@ -21,7 +21,7 @@ Screen will be updated as you set the values.
 
 
 ## Screenshot
-<h2 align='center'> <img width=32 src='https://github.com/MakersFunDuck/Hanshow-Auto-Updater/blob/main/Screenshot.png'>Screenshot</h2>
+<h2 align='center'> <img width=400 src='https://github.com/MakersFunDuck/Hanshow-Auto-Updater/blob/main/Screenshot.png'>Screenshot</h2>
 
 
 
