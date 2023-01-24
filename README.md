@@ -28,23 +28,40 @@ Screen will be updated as you set the values.
 ## Installation
 
 Install the [requirements](#requirements)
+
 # Clone the repository.
+
 $ git clone git@github.com:rbaron/Hanshow-Auto-Updater.git
+
 $ cd Hanshow-Auto-Updater
+
 # Create a virtualenv on venv/ and activate it.
+
 $ virtualenv --python=python3 venv
+
 $ source venv/bin/activate
+
 # Install requirements from requirements.txt.
+
+
 $ pip install -r requirements.txt
 
 
+
 ## Requirements
+
 bleak==0.19.5
+
 customtkinter==5.0.4
+
 mouse==0.7.1
+
 numpy==1.24.1
+
 opencv-python==4.7.0.68
+
 PyAutoGUI==0.9.53
+
 pygame==2.1.2
 
 
