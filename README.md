@@ -20,6 +20,10 @@ select the region you want to snip.
 Screen will be updated as you set the values.
 
 
+## Video for the explanation
+
+https://youtu.be/BCkMu57S_YA
+
 ## Screenshot
 <h2 align='center'> <img width=400 src='https://github.com/MakersFunDuck/Hanshow-Auto-Updater/blob/main/Screenshot.png'></h2>
 
